@@ -3,3 +3,4 @@ the first add and commit readme.txt
 git new new description
 !!
 git diff
+git diff !
